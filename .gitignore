@@ -1,0 +1,3 @@
+AWS_EKS_Provisioning/.terraform/
+AWS_EKS_Provisioning/terraform.tfstate.backup
+AWS_EKS_Provisioning/terraform.tfstate
